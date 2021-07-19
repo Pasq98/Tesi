@@ -11,4 +11,6 @@ PrimoEsperimento: prima sperimentazione con classificatori shallow learning.
 
 Secondo&TerzoEsperimento: sperimentazione cross-dataset, utilizzati per il secondo e terzo esperimento della tesi. Per utilizzarli basta soltanto caricare il giusto dataset.
 
-Nel server del dipartimento è gia presente una cartella di lavoro con l'ambiente già settato, in Documenti -> research_santoro -> pythonProject, con solo il codice del secondo e terzo esperimento. Si consiglia di lavorare sul server e non sul Google Colab.
+Nel server del dipartimento è gia presente una cartella di lavoro con l'ambiente già settato, in Documenti -> research_santoro -> pythonProject, con solo il codice del secondo e terzo esperimento. Si consiglia di lavorare sul server e non su Google Colab.
+
+N.B per i dataset Tweets e ACLL le etichette sono state scambiate per il terzo e secondo esperimento.
